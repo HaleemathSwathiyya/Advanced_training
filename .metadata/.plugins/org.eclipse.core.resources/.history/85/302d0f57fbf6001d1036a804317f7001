@@ -1,0 +1,5 @@
+package com.example.sleuthservice.resources;
+
+public class SleuthService {
+
+}

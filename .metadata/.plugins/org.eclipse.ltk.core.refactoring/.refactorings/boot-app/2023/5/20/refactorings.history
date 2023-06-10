@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Product.java&apos; to &apos;feignclient/src/main/java/com.example.feignclient.model&apos;&#x0D;&#x0A;- Original project: &apos;boot-app&apos;&#x0D;&#x0A;- Destination element: &apos;feignclient/src/main/java/com.example.feignclient.model&apos;&#x0D;&#x0A;- Original element: &apos;com.ust.rest.resource.Product.java&apos;" description="Copy compilation unit" destination="=feignclient/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.feignclient.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ust.rest.resource{Product.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1684559487100" units="1" version="1.0"/>
+</session>
